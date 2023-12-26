@@ -89,8 +89,8 @@ For a complete CS self-taught program, the resources for my study plan have been
 - [Why use it?](#why-use-it) [x]
 - [How to use it](#how-to-use-it) [x]
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough) [x]
-- [A Note About Video Resources](#a-note-about-video-resources)
-- [Choose a Programming Language](#choose-a-programming-language)
+- [A Note About Video Resources](#a-note-about-video-resources) [x]
+- [Choose a Programming Language](#choose-a-programming-language) [x]
 - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
 - [Interview Prep Books](#interview-prep-books)
 - [Don't Make My Mistakes](#dont-make-my-mistakes)
