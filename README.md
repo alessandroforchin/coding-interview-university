@@ -91,13 +91,13 @@ For a complete CS self-taught program, the resources for my study plan have been
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough) [x]
 - [A Note About Video Resources](#a-note-about-video-resources) [x]
 - [Choose a Programming Language](#choose-a-programming-language) [x]
-- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
-- [Interview Prep Books](#interview-prep-books)
-- [Don't Make My Mistakes](#dont-make-my-mistakes)
-- [What you Won't See Covered](#what-you-wont-see-covered)
-- [The Daily Plan](#the-daily-plan)
-- [Coding Question Practice](#coding-question-practice)
-- [Coding Problems](#coding-problems)
+- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms) [x]
+- [Interview Prep Books](#interview-prep-books) [x]
+- [Don't Make My Mistakes](#dont-make-my-mistakes) [x]
+- [What you Won't See Covered](#what-you-wont-see-covered) [x]
+- [The Daily Plan](#the-daily-plan) [x]
+- [Coding Question Practice](#coding-question-practice) [x]
+- [Coding Problems](#coding-problems) [x]
 
 ### Topics of Study
 
